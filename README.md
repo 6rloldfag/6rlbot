@@ -1,4 +1,4 @@
-#6rlbot
+# 6rlbot
 
 6rlbot is a minecraft chatbot used for minecraft anarchy servers
 
