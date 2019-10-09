@@ -2,7 +2,7 @@
 
 6rlbot is a minecraft chatbot used for minecraft anarchy servers
 
-The bot was originally made for the minecraft server *oldfag.org*
+The bot was originally made for the minecraft server **oldfag.org**
 
 # FAQ
 
